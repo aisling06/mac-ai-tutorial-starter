@@ -6,7 +6,16 @@ You don't need an idea yet. Claude will help you find one.
 
 ## My project
 
-Nothing yet! Claude will help you describe your project here.
+**F1 Reaction Timer** 🏎️
+
+A browser game that tests your reaction time like a Formula 1 race start.
+Five red lights turn on one by one. After a random wait, they all go out.
+Click or press Space as fast as you can to see your time in milliseconds.
+Click too early and it's a jump start! Your best time is saved in the browser.
+
+Built with plain HTML, CSS, and JavaScript.
+
+**How to run:** open `index.html` in your browser (or run `open index.html` on a Mac).
 
 ## Before you start
 
